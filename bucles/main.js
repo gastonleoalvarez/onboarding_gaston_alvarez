@@ -1,5 +1,5 @@
-/*let numeroingresado = prompt ("ingresar cualquier numero del 1 al 100")
-
+/*EJERCICIO 1
+let numeroingresado = prompt ("ingresar cualquier numero del 1 al 100")
 if(numeroingresado<=100){
     for(numero=numeroingresado; numero>= 0;numero--){
         console.log(numero);
@@ -8,7 +8,7 @@ if(numeroingresado<=100){
     console.log("ingresar numero entre 1 y 100")
 }*/
 
-
+//EJERCICIO 2
 /*let numeroingresado = prompt ("ingresar cualquier numero del 1 al 10")
 
 if(numeroingresado<=10){
@@ -22,7 +22,7 @@ if(numeroingresado<=10){
 }
 */
 
-
+//EJERCICIO 3
 /*let suma = 0;
 
 while (true) {
@@ -39,6 +39,7 @@ while (true) {
 console.log("La suma de los números ingresados es: " + suma);
 */
 
+//EJERCICIO 4
 /*let suma = 0;
 
 do {
@@ -56,7 +57,7 @@ do {
 
 console.log("La suma de los números ingresados es: " + suma);*/
 
-
+//EJERCICIO 5
 
 /*let numeroIngresado = prompt("Ingresa un número para encontrar sus divisores:");
 let numero = parseInt(numeroIngresado);
@@ -69,6 +70,7 @@ for (let i = 1; i <= numero; i++) {
     }
 }*/
 
+//EJERCICIO 6
 /*const fechaLimite = "1997-8-3"
 const fechas = ["1984-10-2", "1990-3-2", "1973-15-7", "2024-21-10", "2001-1-9"]
 
@@ -78,17 +80,23 @@ for(let i=0; i<= fechas.length; i++){
     }
 }*/
 
+//EJERCICIO 7
+
 /*const colores = ["rojo", "verde", "azul", "violeta", "amarillo", "celeste", "naranja", "rosa"]
 
 for(let i of colores){
     console.log(i)
 }*/
 
+//EJERCICIO 8
+
 /*function f(){
     for(let i of colores){
         console.log(i)
     }
 }*/
+
+//EJERCICIO 9
 
 /*const numeros = [2, 3, 4, 5, 6]
 
@@ -155,3 +163,5 @@ do {
 
 console.log("La suma de los números ingresados es: " + sumapar);
 console.log("La suma de los números ingresados es: " + sumaimpar);*/
+
+
